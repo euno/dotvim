@@ -1,0 +1,8 @@
+AnsiEsc.vim
+neobundle.vim
+neomru.vim
+nerdtree
+unite.vim
+vim-fugitive
+vim-less
+vim-trailing-whitespace
